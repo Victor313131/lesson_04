@@ -1,0 +1,76 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comforter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bad+Script&display=swap");
+
+@font-face {
+	font-family: "Orbitron";
+	src: url("../fonts/Orbitron-Bold.woff2") format("woff2"), url("../fonts/Lobster-Regular.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Lobster";
+	src: url("../fonts/Lobster-Regular.woff2") format("woff2"), url("../fonts/Lobster-Regular.woff") format("wooff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	font-family: "Lato", sans-serif;
+	font-size: 20px;
+}
+.title {
+	color: goldenrod;
+	font-family: "Kelly Slab", cursive;
+	font-weight: 400;
+	font-size: 70px;
+	text-shadow: 10px 10px 5px #000;
+}
+.nav {
+	font-family: "Amatic SC", cursive;
+	font-size: 30px;
+	font-weight: 700;
+}
+h3 {
+	font-family: "lobster", serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: red;
+}
+.text {
+	font-family: "Comforter", cursive;
+	font-size: 25px;
+}
+.text2 {
+	font-family: "Comforter", cursive;
+	font-size: 25px;
+}
+.text4 {
+	font-family: "Comforter", cursive;
+	font-size: 25px;
+}
+.text1 {
+	font-family: "Bad Script", cursive;
+	font-size: 20px;
+}
+.text3 {
+	font-family: "Bad Script", cursive;
+	font-size: 20px;
+}
+.text5 {
+	font-family: "Bad Script", cursive;
+	font-size: 20px;
+	text-align: center;
+}
+ul {
+	font-family: "Orbitron", serif;
+	font-weight: 700;
+	font-size: 25px;
+	color: green;
+}
